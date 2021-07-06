@@ -14,7 +14,7 @@ This is a React Native template have ready configuration of:
 
 ## Using this template
 
-To start new React Native with this template, run:
+To start new React Native project with this template, run:
 
 ```console
 npx react-native init newproject --template https://github.com/ansuz-dev/rn-paper-boilerplate
