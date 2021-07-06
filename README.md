@@ -18,11 +18,11 @@ This is a React Native template have ready configuration of:
 To start new React Native with this template, run:
 
 ```console
-create-react-native-app new-project --template https://github.com/ansuz-dev/rn-paper-boilerplate
+create-react-native-app newproject --template https://github.com/ansuz-dev/rn-paper-boilerplate
 ```
 
 or:
 
 ```console
-npx react-native init new-project --template https://github.com/ansuz-dev/rn-paper-boilerplate
+npx react-native init newproject --template https://github.com/ansuz-dev/rn-paper-boilerplate
 ```
