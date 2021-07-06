@@ -1,0 +1,10 @@
+{
+  "name": "rn-paper-boilerplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": {
+    "url": "https://github.com/ansuz-dev/rn-paper-boilerplate"
+  },
+  "author": "Ansuz Development <ansuzdev@gmail.com>",
+  "license": "MIT"
+}
