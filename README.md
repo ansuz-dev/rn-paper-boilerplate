@@ -12,16 +12,9 @@ This is a React Native template have ready configuration of:
 - `language` and `isDarkTheme` settings persisted in Redux store.
 - [Eslint](https://eslint.org/) v7.14.x.
 
-
 ## Using this template
 
 To start new React Native with this template, run:
-
-```console
-create-react-native-app newproject --template https://github.com/ansuz-dev/rn-paper-boilerplate
-```
-
-or:
 
 ```console
 npx react-native init newproject --template https://github.com/ansuz-dev/rn-paper-boilerplate
